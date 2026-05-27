@@ -1,0 +1,6 @@
+{
+  "name": "BRICKWORLD LEGO Hub",
+  "description": "An immersive e-commerce & interactive custom LEGO Showcase featuring Marvel team-builder, Ninjago training challenge, and interactive Technic gearbox simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
