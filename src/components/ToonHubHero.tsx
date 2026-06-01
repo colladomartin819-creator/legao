@@ -4,7 +4,7 @@ import { ArrowLeft, ArrowRight, ShieldCheck, Sparkles, Box, Compass } from "luci
 
 const IMAGES = [
   { 
-    src: '/src/assets/images/lego_ninjago_mech_1779239741341.png', 
+    src: 'https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png', 
     bg: 'radial-gradient(circle at 50% 30%, #0d1e15 0%, #010403 100%)', 
     borderGlow: 'rgba(16, 185, 129, 0.48)', // Emerald Neon
     themeText: 'text-emerald-400',
@@ -14,7 +14,7 @@ const IMAGES = [
     specialBreakKey: true
   },
   { 
-    src: '/src/assets/images/lego_batman_1779670840910.png', 
+    src: 'https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png', 
     bg: 'radial-gradient(circle at 50% 30%, #11101d 0%, #030206 100%)', 
     borderGlow: 'rgba(251, 191, 36, 0.4)', // Amber Gold
     themeText: 'text-amber-400',
@@ -23,7 +23,7 @@ const IMAGES = [
     badge: 'LUXURY ED.'
   },
   { 
-    src: '/src/assets/images/lego_cosmic_villain_1779670943011.png', 
+    src: 'https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png', 
     bg: 'radial-gradient(circle at 50% 30%, #20040c 0%, #050103 100%)', 
     borderGlow: 'rgba(239, 68, 68, 0.4)', // Vader Crimson
     themeText: 'text-red-500',
@@ -32,7 +32,7 @@ const IMAGES = [
     badge: 'COLLECTIBLE'
   },
   { 
-    src: '/src/assets/images/lego_harrypotter_1779670894416.png', 
+    src: 'https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png', 
     bg: 'radial-gradient(circle at 50% 30%, #1c0527 0%, #04010a 100%)', 
     borderGlow: 'rgba(168, 85, 247, 0.4)', // Purple Magic
     themeText: 'text-purple-400',
@@ -41,7 +41,7 @@ const IMAGES = [
     badge: 'EXCLUSIVE'
   },
   { 
-    src: '/src/assets/images/lego_ironman_1779670915352.png', 
+    src: 'https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png', 
     bg: 'radial-gradient(circle at 50% 30%, #071f30 0%, #010408 100%)', 
     borderGlow: 'rgba(6, 182, 212, 0.4)', // Arc Cyan
     themeText: 'text-cyan-400',

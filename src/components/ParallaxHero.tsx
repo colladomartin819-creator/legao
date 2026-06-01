@@ -122,7 +122,7 @@ export default function ParallaxHero() {
       <div
         className="absolute inset-0 bg-cover bg-bottom opacity-50 mix-blend-lighten pointer-events-none filter blur-[0.5px]"
         style={{
-          backgroundImage: `url('/src/assets/images/lego_ninjago_landscape_1779239607103.png')`,
+          backgroundImage: `url('https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&q=80&w=1200')`,
           transform: 'translate3d(0, calc(var(--scroll-y, 0px) * 0.5), -5px) scale(1.15)',
         }}
       />
@@ -221,7 +221,7 @@ export default function ParallaxHero() {
         }}
       >
         <img
-          src="/src/assets/images/lego_ninjago_mech_1779239741341.png"
+          src="https://cdn.phototourl.com/free/2026-06-01-3709f574-13b9-45df-a1ae-27066fad9d7d.png"
           alt="Foreground Master Titan Mech"
           className="w-full h-full object-contain object-bottom animate-[float_6s_easeInOutSine_infinite]"
           referrerPolicy="no-referrer"
